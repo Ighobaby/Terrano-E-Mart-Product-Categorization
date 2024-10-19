@@ -1,5 +1,8 @@
 # Terrano-E-Mart-Product-Categorization
 
+Streamlit Video Demo
+https://youtu.be/6DHQ24nZdRA
+
 This project focuses on automating the product categorization process for an online electronics and furniture retailer, Terrano E-Mart. By utilizing K-Means clustering, this project aims to efficiently group similar products based on key features, improving operational efficiency and customer experience.
 Project Objectives
 
